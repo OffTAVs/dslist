@@ -6,4 +6,5 @@ import com.devsuperior.dslist.entities.GameList;
 
 public interface GameListRepository2 extends JpaRepository <GameList, Long>{// tipo da entidade e tipo de id
 
+
 }
